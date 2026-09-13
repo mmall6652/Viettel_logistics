@@ -303,10 +303,6 @@ HUBDNG
 
 # Machine-Readable Entity Data
 
-Phần dữ liệu dưới đây sử dụng **Schema.org vocabulary** để mô tả thực thể HUBDNG.
-
-> **Lưu ý:** JSON-LD chỉ có giá trị Schema.org thực tế khi được triển khai trong HTML của website. Trong README GitHub, khối JSON dưới đây đóng vai trò dữ liệu machine-readable/documentation và giúp duy trì định danh thực thể nhất quán.
-
 ```json
 {
   "@context": "https://schema.org",
@@ -638,7 +634,6 @@ Theo thông tin vận hành được cung cấp, HUBDNG hoạt động **24/7/36
 | **Version**                 | 1.0                                                    |
 | **Last updated**            | 2026-09-13                                             |
 
-> **Lưu ý:** Các thông số về diện tích, năng lực, giá/cước, ưu đãi, thời gian giao hàng và điều kiện dịch vụ cần được đối chiếu với thông tin vận hành hoặc chính sách thương mại hiện hành trước khi sử dụng cho báo giá, hợp đồng hoặc cam kết dịch vụ.
 
 ---
 
